@@ -2,7 +2,7 @@
   "version": 3,
   "builds": [
     {
-      "src": "main.py",
+      "src": "api_server.py",
       "use": "@vercel/python"
     }
   ],
